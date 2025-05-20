@@ -1,4 +1,4 @@
-# sopaDeLetras
+# Sopa de Letras
 Sopa de letras hecha en C++, fue hecho como parte de un trabajo escolar.
 
 ### Limitaciones
